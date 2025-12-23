@@ -292,5 +292,3 @@ ISC License
 ---
 
 **Repository**: [github.com/NabeelFarooq/hashMap](https://github.com/NabeelFarooq/hashMap)  
-**Created**: Data structures portfolio project  
-**Purpose**: Interview preparation and backend knowledge demonstration
