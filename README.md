@@ -269,9 +269,7 @@ hash('a') ≠ hash('aa')     // Different hashes
 hash('abc') = hash('abc')  // Same inputs, same output
 ```
 
-## 🎯 Interview & Hiring Value
-
-This project demonstrates:
+## 🎯 This project demonstrates:
 1. **Data Structure Mastery** - Understanding of hash tables
 2. **Algorithm Design** - Hash function and collision handling
 3. **Memory Management** - Dynamic resizing and capacity planning
